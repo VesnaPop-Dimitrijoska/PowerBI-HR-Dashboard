@@ -9,6 +9,7 @@ The assignment was to create Power BI Dashboard for HR sector for one commercial
 
 ---
 # Preview of the Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiYmU5NDFkZGItNGQ5Yy00YTM3LWFmNGMtZDkwNmJlNDg0MTNiIiwidCI6IjEzMjViNTdhLTFjZmItNGFhZC04YTZkLTNkYmRiNWJjYjQyZCIsImMiOjl9
 
 ![image](https://github.com/VesnaPop-Dimitrijoska/PowerBI-HR-Dashboard/assets/144008804/a387938b-d345-4a1e-8cc1-4caefb2e2615)
 
