@@ -5,6 +5,7 @@ PowerBI-HR-Dashboard
 # Project Description:
 This project was developed as individual final project assignment at Brainster Data Science Academy in the module: Power BI. 
 The assignment was to create Power BI Dashboard for HR sector for one commercial bank, for the client for witch we were designing a database as part of another Brainster project.
+
 ---
 #
 # Assignment steps:
